@@ -30,6 +30,7 @@ class UploadForm extends Component {
     form_data.append('title', this.state.title);
     form_data.append('content', this.state.content);
     let url = 'https://tutorial-backend2.herokuapp.com/';
+    // let url = '127.0.0.1:8000';
     axios.post(url, form_data, {
       headers: {
         'content-type': 'multipart/form-data'
