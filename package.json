@@ -9,7 +9,6 @@
     "axios": "^0.19.2",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-grid": "^4.0.4",
     "react-scripts": "^3.4.3",
     "websocket-extensions": "^0.1.4"
   },
