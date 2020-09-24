@@ -2,8 +2,9 @@
   "name": "tutorial-front",
   "version": "0.1.0",
   "engines": {
-    "node": "^12.18",
-    "npm": "^6.14"
+    "node": "^12.18.3",
+    "npm": "^6.14.8",
+    "yarn": "1.22.5"
   },
   "private": true,
   "dependencies": {
