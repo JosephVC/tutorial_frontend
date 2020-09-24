@@ -1,7 +1,7 @@
 import React, {Component} from 'react';
 
 import UploadForm from './components/UploadForm';
-import FileGrid from './components/FileGrid';
+import FileGrid from './components/FileList';
 
 import './App.css';
 
