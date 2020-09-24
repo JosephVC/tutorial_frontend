@@ -8,7 +8,7 @@ class FileList extends Component {
     async componentDidMount () {
         try {
             // fetch the data from the api
-            const res = await fetch('https://django-ocr-backend.herokuapp.com/')
+            const res = await fetch('https://tutorial-backend2.herokuapp.com/')
             const fileList = await res.json();
             this.setState({
                 fileList
